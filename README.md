@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome to kotlindev ! 👋
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
