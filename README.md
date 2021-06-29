@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about PHP
 - 📫 How to reach me: [https://phy.xyz](https://phy.xyz)
-- 😄 Pronouns: handsome, graceful, gental
-- ⚡ Fun fact: photography, music
+- 😄 Pronouns: Graceful, Gental
+- ⚡ Fun fact: Photography, Music
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
