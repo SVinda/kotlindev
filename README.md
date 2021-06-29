@@ -1,8 +1,8 @@
 ### Hi, welcome to kotlindev ! 👋
 
-- 🔭 I’m currently working on mama.cn
+- 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on Android
+- 👯 I’m looking to collaborate on JavaScript
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about PHP
 - 📫 How to reach me: [https://phy.xyz](https://phy.xyz)
