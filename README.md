@@ -1,13 +1,12 @@
-### Hi, welcome to kotlindev ! 👋
+### 😄 Hi, 欢迎来到极客开发者，我是这里的主人 ! 👋
 
-- 🔭 I’m currently working on PHP
-- 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on JavaScript
-- 🤔 I’m looking for help with Android
-- 💬 Ask me about PHP
-- 📫 How to reach me: [https://phy.xyz](https://phy.xyz)
-- 😄 Pronouns: Graceful, Gental
-- ⚡ Fun fact: Photography, Music
+- 🔭 我现在的工作内容是 PHP
+- 🌱 我目前在学习 golang
+- 🤔  我很喜欢研究 数据结构 Android
+- 📫 这是我的个人网站: [https://phy.xyz](https://phy.xyz)
+- ⚡ 兴趣: 手机摄影, 听音乐
+- 👯 你可以通过我的公众号找到我 💬
+![https://blog.jkdev.cn/usr/uploads/2017/11/612527812.jpg](https://blog.jkdev.cn/usr/uploads/2017/11/612527812.jpg)
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
