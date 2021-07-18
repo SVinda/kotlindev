@@ -1,13 +1,19 @@
 ### 😄 Hi, 欢迎来到极客开发者，我是这里的主人 ! 👋
 
+---
+
 - 🔭 我现在的工作内容是 PHP
 - 🌱 我目前在学习 golang
-- 🤔  我很喜欢研究 数据结构 Android
+- 🤔 我很喜欢研究 数据结构 Android
 - 📫 这是我的个人网站: [https://phy.xyz](https://phy.xyz)
-- ⚡ 兴趣: 手机摄影, 听音乐
+- ⚡ 我的兴趣爱好: 跑步, 游泳, 手机摄影, 听音乐
 - 👯 你可以通过我的公众号找到我 💬
-------
-![https://blog.jkdev.cn/usr/uploads/2017/11/612527812.jpg](https://blog.jkdev.cn/usr/uploads/2017/11/612527812.jpg)
+
+---
+
+<div>
+<img src="./img/wechat.jpeg" width = "120" alt="极客开发者公众号" align="center />
+</div>
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
