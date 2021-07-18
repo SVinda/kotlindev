@@ -8,10 +8,8 @@
 - 📫 这是我的个人网站: [https://phy.xyz](https://phy.xyz)
 - ⚡ 我的兴趣爱好: 跑步, 游泳, 手机摄影, 听音乐
 - 👯 你可以通过我的公众号找到我 💬
-
----
-
-![极客开发者公众号](./img/wechat.jpg)
+  <br>
+  ![极客开发者公众号](./img/wechat.jpg)
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
