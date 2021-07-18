@@ -12,7 +12,7 @@
 ---
 
 <div>
-<img src="./img/wechat.jpeg" width = "120" alt="极客开发者公众号" align="center />
+<img src="https://github.com/kotlindev/kotlindev/blob/master/img/wechat.jpeg" width = "120" alt="极客开发者公众号" align="center />
 </div>
 
 <!--
