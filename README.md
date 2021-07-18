@@ -11,9 +11,7 @@
 
 ---
 
-<div>
 <img src="https://github.com/kotlindev/kotlindev/blob/master/img/wechat.jpeg" width = "120" alt="极客开发者公众号" align="center />
-</div>
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
