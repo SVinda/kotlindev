@@ -5,7 +5,7 @@
 - 🔭 我现在的工作内容是 PHP
 - 🌱 我目前在学习 golang
 - 🤔 我很喜欢研究 数据结构 Android
-- 📫 这是我的个人网站: [https://phy.xyz](https://phy.xyz)
+- 📫 这是我的个人网站: [https://www.phy.xyz](https://www.phy.xyz)
 - ⚡ 我的兴趣爱好: 跑步, 游泳, 手机摄影, 听音乐
 - 👯 你可以通过我的公众号找到我 💬
   <br>
