@@ -1,18 +1,18 @@
-### 😄 Hi, 欢迎来到Kotlindev，我是这里的主人 ! 👋
+### 😄 Hi, Here is Kotlindev ! 👋
 
 ---
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kotlindev&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-- 🔭 我现在的工作内容是 PHP
-- 🌱 我目前在学习 golang
-- 🤔 我很喜欢研究 数据结构 Android
-- 📫 这是我的个人网站: [https://www.phy.xyz](https://www.phy.xyz)
-- ⚡ 我的兴趣爱好: 跑步, 游泳, 手机摄影, 听音乐
-- 👯 你可以通过我的公众号找到我 💬
+- 🔭 I’m currently working on MMW
+- 🌱 I’m currently learning golang
+- 🤔 I’m looking to collaborate on Data Struct and Android
+- 📫 Whis is my personal website: [https://phy.xyz](https://www.phy.xyz)
+- ⚡ Fun fact: runing, swiming, photograph, music
+- 👯 How to reach me 💬
   <br>
-  ![极客开发者公众号](./img/wechat.jpg)
+  ![phy-xyz](./img/wechat.jpg)
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
