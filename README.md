@@ -11,8 +11,12 @@
 - 📫 Whis is my personal website: [https://phy.xyz](https://www.phy.xyz)
 - ⚡ Fun fact: runing, swiming, photograph, music
 - 👯 How to reach me 💬
+Wechat:
   <br>
   ![phy-xyz](./img/wechat.jpg)
+
+<br>
+BiliBili: https://space.bilibili.com/172353353
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
