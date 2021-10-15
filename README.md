@@ -13,9 +13,7 @@
 - 👯 How to reach me 💬
 <br>Wechat:<br>
 ![phy-xyz](./img/wechat.jpg)
-
-<br>
-BiliBili: https://space.bilibili.com/172353353
+<br>BiliBili: https://space.bilibili.com/172353353
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
