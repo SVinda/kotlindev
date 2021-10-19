@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on MMW
 - 🌱 I’m currently learning golang
 - 🤔 I’m looking to collaborate on Data Struct and Android
-- 📫 Whis is my personal website: [https://phy.xyz](https://www.phy.xyz)
+- 📫 My personal website: [https://phy.xyz](https://www.phy.xyz)
 - ⚡ Fun fact: runing, swiming, photograph, music
 - 👯 How to reach me 💬
 <br>Wechat:<br>
